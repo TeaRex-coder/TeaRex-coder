@@ -19,7 +19,7 @@
       <h2 align="center"><a href="https://github.com/TeaRex-coder/ansible-playbooks">Ansible<br>Playbooks</a></h2>
       <a href="https://github.com/TeaRex-coder/ansible-playbooks">
       <div align="center">
-        <img src="https://icons-for-free.com/iconfiles/png/512/ansible+red-1331550886153521193.png" alt="Ansible Playbooks" width=100>
+        <img src="https://raw.githubusercontent.com/TeaRex-coder/TeaRex-coder/main/logos/ansible_logo.png" alt="Ansible Playbooks" width=100>
       </div>
       </a>
     </td>
@@ -27,7 +27,7 @@
       <h2 align="center"><a href="https://github.com/TeaRex-coder/docker-openvpn-access-server">OpenVPN-AS<br>Docker</a></h2>
       <a href="https://github.com/TeaRex-coder/docker-openvpn-access-server">
       <div align="center">
-          <img src="https://avatars.githubusercontent.com/u/1569141?s=280&v=4" alt="OpenVPN Access Server Docker" width=100>
+          <img src="https://raw.githubusercontent.com/TeaRex-coder/TeaRex-coder/main/logos/ovpn_logo.png" alt="OpenVPN Access Server Docker" width=100>
       </div>
       </a>
     </td>
@@ -35,7 +35,7 @@
       <h2 align="center"><a href="https://github.com/TeaRex-coder/hammerspoon-config">Hammerspoon<br>Configuration</a></h2>
       <a href="https://github.com/TeaRex-coder/hammerspoon-config">
         <div align="center">
-            <img src="https://www.hammerspoon.org/images/hammerspoon.png" alt="Hammerspoon Configuration" width=100>
+            <img src="https://raw.githubusercontent.com/TeaRex-coder/TeaRex-coder/main/logos/hammerspoon_logo.png" alt="Hammerspoon Configuration" width=100>
         </div>
       </a>
     </td>
@@ -44,7 +44,7 @@
 
 ## Tech Stack
 
-<center>
+<p align="center">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
     <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp" />
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</center>
+</p>
 
 ## How to reach me
 
