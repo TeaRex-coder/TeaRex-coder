@@ -1,11 +1,11 @@
 <h1>Hey there, I'm Alexandre Boutoille <img src="https://media.tenor.com/uFrJx50hd70AAAAi/hype-cat.gif" height="25"/></h1>
 
-<div align="right">
+<div align="left">
 
 ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=TeaRex-coder.TeaRex-coder&style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaRex-coder&layout=compact&theme=nord)
 ![Alexandre Boutoille's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaRex-coder&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaRex-coder&layout=compact&theme=nord)
 
 </div>
 
