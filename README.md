@@ -15,7 +15,7 @@
 
 <table align="center">
   <tr>
-    <td style="width: 200px;">
+    <td style="width: 156px;">
       <h2 align="center"><a href="https://github.com/TeaRex-coder/ansible-playbooks">Ansible<br>Playbooks</a></h2>
       <a href="https://github.com/TeaRex-coder/ansible-playbooks">
       <div align="center">
@@ -23,7 +23,7 @@
       </div>
       </a>
     </td>
-    <td style="width: 200px;">
+    <td style="width: 156px;">
       <h2 align="center"><a href="https://github.com/TeaRex-coder/docker-openvpn-access-server">OpenVPN-AS<br>Docker</a></h2>
       <a href="https://github.com/TeaRex-coder/docker-openvpn-access-server">
       <div align="center">
@@ -31,7 +31,7 @@
       </div>
       </a>
     </td>
-    <td style="width: 200px;">
+    <td style="width: 156px;">
       <h2 align="center"><a href="https://github.com/TeaRex-coder/hammerspoon-config">Hammerspoon<br>Configuration</a></h2>
       <a href="https://github.com/TeaRex-coder/hammerspoon-config">
         <div align="center">
