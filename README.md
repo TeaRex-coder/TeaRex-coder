@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Alexandre Boutoille <img src="https://media.tenor.com/uFrJx50hd70AAAAi/hype-cat.gif" height="25"/></h1>
+<h1>Hey there, I'm Alexandre Boutoille <img src="https://media.tenor.com/uFrJx50hd70AAAAi/hype-cat.gif" height="25" width="25.59"/></h1>
 
 <div align="left">
 
