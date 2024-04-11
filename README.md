@@ -4,8 +4,8 @@
 
 ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=TeaRex-coder.TeaRex-coder&style=for-the-badge)
 
-![Alexandre Boutoille's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaRex-coder&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaRex-coder&layout=compact&theme=nord)
+![Alexandre Boutoille's GitHub stats](https://tearex-coder-github-readme-stats.vercel.app/api?username=TeaRex-coder&show_icons=true&theme=nord)
+![Top Langs](https://tearex-coder-github-readme-stats.vercel.app/api/top-langs/?username=TeaRex-coder&layout=compact&theme=nord)
 
 </div>
 
