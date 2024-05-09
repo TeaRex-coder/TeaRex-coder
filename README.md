@@ -2,45 +2,10 @@
 
 <div align="left">
 
-![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=TeaRex-coder.TeaRex-coder&style=for-the-badge)
-
 ![Alexandre Boutoille's GitHub stats](https://tearex-coder-github-readme-stats.vercel.app/api?username=TeaRex-coder&show_icons=true&theme=nord)
 ![Top Langs](https://tearex-coder-github-readme-stats.vercel.app/api/top-langs/?username=TeaRex-coder&layout=compact&theme=nord)
 
 </div>
-
-#
-
-**<p align="center">I'm a junior-developer from Canada 🇨🇦. You can find me contributing to: (feel free to join me)</p>**
-
-<table align="center">
-  <tr>
-    <td style="width: 156px;">
-      <h2 align="center"><a href="https://github.com/TeaRex-coder/ansible-playbooks">Ansible<br>Playbooks</a></h2>
-      <a href="https://github.com/TeaRex-coder/ansible-playbooks">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/TeaRex-coder/TeaRex-coder/main/logos/ansible_logo.png" alt="Ansible Playbooks" width=100>
-      </div>
-      </a>
-    </td>
-    <td style="width: 156px;">
-      <h2 align="center"><a href="https://github.com/TeaRex-coder/docker-openvpn-access-server">OpenVPN-AS<br>Docker</a></h2>
-      <a href="https://github.com/TeaRex-coder/docker-openvpn-access-server">
-      <div align="center">
-          <img src="https://raw.githubusercontent.com/TeaRex-coder/TeaRex-coder/main/logos/ovpn_logo.png" alt="OpenVPN Access Server Docker" width=100>
-      </div>
-      </a>
-    </td>
-    <td style="width: 156px;">
-      <h2 align="center"><a href="https://github.com/TeaRex-coder/hammerspoon-config">Hammerspoon<br>Configuration</a></h2>
-      <a href="https://github.com/TeaRex-coder/hammerspoon-config">
-        <div align="center">
-            <img src="https://raw.githubusercontent.com/TeaRex-coder/TeaRex-coder/main/logos/hammerspoon_logo.png" alt="Hammerspoon Configuration" width=100>
-        </div>
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## Tech Stack
 
