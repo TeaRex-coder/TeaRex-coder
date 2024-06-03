@@ -30,7 +30,7 @@
 
 ## How to reach me
 
-You can reach me at the **Email** on my GitHub. Or find me at my socials:
+You can reach me at the **[Email](mailto:alexandre@boutoille.com)** on my GitHub. Or find me at my socials:
 
 <p align="center">
   <a href="https://twitter.alexandreboutoille.com">
@@ -38,15 +38,6 @@ You can reach me at the **Email** on my GitHub. Or find me at my socials:
   </a>
   <a href="https://linkedin.alexandreboutoille.com">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.alexandreboutoille.com">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://newsletter.alexandreboutoille.com">
-    <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack" />
-  </a>
-  <a href="https://youtube.alexandreboutoille.com">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://discord.alexandreboutoille.com">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
